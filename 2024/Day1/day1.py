@@ -1,6 +1,6 @@
 """
 
-AdventCode2024 - Day 1
+AdventCode2024 - Day1 part 1
 
 """
 

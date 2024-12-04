@@ -1,4 +1,4 @@
-# AdventOfCode
+# Advent Of Code
 In questa repository troverete le soluzioni delle *challenges* relative ad Advent of Code.
 
 ## Spiegazione evento

@@ -1,6 +1,8 @@
 # AdventOfCode
+In questa repository troverete le soluzioni delle *challenges* relative ad Advent of Code.
 
-In questa repository troverete le soluzioni delle *challenges* relative ad AdventCode.
+## Spiegazione evento
+Advent of Code è un calendario dell'Avvento di piccoli puzzle di programmazione per ogni livello di abilità che possono essere risolti in qualsiasi linguaggio di programmazione.
 
 ## 2024
 
@@ -13,4 +15,4 @@ Tutte le *challenge* saranno scritte in Python.  <img src="https://raw.githubuse
 
 ## Risorse Utili
 
-- [Advent of Code](https://adventofcode.com) - Il sito ufficiale delle *challenge*.
+- [Advent of Code](https://adventofcode.com) - Il sito ufficiale delle *challenges*.

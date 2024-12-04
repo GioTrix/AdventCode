@@ -1,6 +1,6 @@
 # AdventOfCode
 
-In questa repository troverete le soluzioni delle *challenge* relative ad AdventCode.
+In questa repository troverete le soluzioni delle *challenges* relative ad AdventCode.
 
 ## 2024
 

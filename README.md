@@ -11,6 +11,7 @@ Tutte le *challenge* saranno scritte in Python.  <img src="https://raw.githubuse
 - [Day 2](2024/Day2)
 - [Day 3](2024/Day3)
 - [Day 4](2024/Day4)
+- [Day 5](2024/Day5)
 
 ## Risorse Utili
 
